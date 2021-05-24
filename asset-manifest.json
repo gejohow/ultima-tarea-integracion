@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tarea-3-integracion/static/css/main.513245e7.chunk.css",
+    "main.js": "/tarea-3-integracion/static/js/main.8b6cf9dd.chunk.js",
+    "main.js.map": "/tarea-3-integracion/static/js/main.8b6cf9dd.chunk.js.map",
+    "runtime-main.js": "/tarea-3-integracion/static/js/runtime-main.d0524b39.js",
+    "runtime-main.js.map": "/tarea-3-integracion/static/js/runtime-main.d0524b39.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/tarea-3-integracion/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.5e4ae9a6.chunk.js": "/tarea-3-integracion/static/js/2.5e4ae9a6.chunk.js",
+    "static/js/2.5e4ae9a6.chunk.js.map": "/tarea-3-integracion/static/js/2.5e4ae9a6.chunk.js.map",
+    "static/js/3.4db6237f.chunk.js": "/tarea-3-integracion/static/js/3.4db6237f.chunk.js",
+    "static/js/3.4db6237f.chunk.js.map": "/tarea-3-integracion/static/js/3.4db6237f.chunk.js.map",
+    "index.html": "/tarea-3-integracion/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/tarea-3-integracion/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.513245e7.chunk.css.map": "/tarea-3-integracion/static/css/main.513245e7.chunk.css.map",
+    "static/js/2.5e4ae9a6.chunk.js.LICENSE.txt": "/tarea-3-integracion/static/js/2.5e4ae9a6.chunk.js.LICENSE.txt",
+    "static/media/airplane.7e62ba1b.png": "/tarea-3-integracion/static/media/airplane.7e62ba1b.png",
+    "static/media/logo.6ce24c58.svg": "/tarea-3-integracion/static/media/logo.6ce24c58.svg",
+    "static/media/start.c6210857.png": "/tarea-3-integracion/static/media/start.c6210857.png",
+    "static/media/start2.706faed1.png": "/tarea-3-integracion/static/media/start2.706faed1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0524b39.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.5e4ae9a6.chunk.js",
+    "static/css/main.513245e7.chunk.css",
+    "static/js/main.8b6cf9dd.chunk.js"
+  ]
+}
